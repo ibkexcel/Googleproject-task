@@ -2,6 +2,12 @@ body{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  }
+img#google-icon{
+    width: 50px;
+    height: auto;
+    margin: 10px auto;
+    display: block;
 }
 nav li{
   display: flex;
